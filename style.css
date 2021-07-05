@@ -80,12 +80,13 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, 50%);
-  width: 200px;
+  width: 150px;
   height: 60px;
   text-align: center;
-  line-height: 60px;
+
+  line-height: 30px;
   color: #fff;
-  font-size: 24px;
+  font-size: 18px;
   text-transform: uppercase;
   text-decoration: none;
   font-family: sans-serif;
@@ -139,12 +140,12 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, 50%);
-  width: 200px;
+  width: 150px;
   height: 60px;
   text-align: center;
   line-height: 60px;
   color: #fff;
-  font-size: 24px;
+  font-size: 18px;
   text-transform: uppercase;
   text-decoration: none;
   font-family: sans-serif;
